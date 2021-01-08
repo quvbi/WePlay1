@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.motion.widget.MotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:layoutDescription="@xml/fragment_empezar_partido_scene2"
+    tools:context=".EmpezarPartidoFragment">
+
+    <ImageButton
+        android:id="@+id/imageButton11"
+        android:layout_width="183dp"
+        android:layout_height="88dp"
+        android:src="@drawable/ic_action_foursquare" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="147dp"
+        android:layout_height="48dp"
+        android:text="Nombre" />
+
+</androidx.constraintlayout.motion.widget.MotionLayout>

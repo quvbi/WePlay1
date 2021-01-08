@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">WePlay</string>
+    <string name="title_activity_crea_jugador">CreaJugador</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="positions">
+ <item>Portero</item>
+ <item>Defensa</item>
+ <item>Mediocampista</item>
+ <item>Delantero</item>
+ <item>Banca</item>
+</string-array>
+
+ <string-array name="dia">
+  <item>1</item>
+  <item>2</item>
+  <item>3</item>
+  <item>4</item>
+  <item>5</item>
+  <item>6</item>
+  <item>7</item>
+  <item>8</item>
+  <item>9</item>
+  <item>10</item>
+  <item>11</item>
+  <item>12</item>
+  <item>13</item>
+  <item>14</item>
+  <item>15</item>
+  <item>16</item>
+  <item>17</item>
+  <item>18</item>
+  <item>19</item>
+  <item>20</item>
+  <item>21</item>
+  <item>22</item>
+  <item>23</item>
+  <item>24</item>
+  <item>25</item>
+  <item>26</item>
+  <item>27</item>
+  <item>28</item>
+  <item>29</item>
+  <item>30</item>
+  <item>31</item>
+ </string-array>
+
+ <string-array name="mes">
+  <item>1</item>
+  <item>2</item>
+  <item>3</item>
+  <item>4</item>
+  <item>5</item>
+  <item>6</item>
+  <item>7</item>
+  <item>8</item>
+  <item>9</item>
+  <item>10</item>
+  <item>11</item>
+  <item>12</item>
+ </string-array>
+
+ <string-array name="año">
+  <item>1950</item>
+  <item>febrero</item>
+  <item>marzo</item>
+  <item>abril</item>
+  <item>mayo</item>
+  <item>junio</item>
+  <item>julio</item>
+  <item>agosto</item>
+  <item>septiembre</item>
+  <item>octubre</item>
+  <item>noviembre</item>
+  <item>diciembre</item>
+ </string-array>
+
+ <string-array name="cantones">
+       <item>Abangares (Guanacaste, CR)</item>
+        <item>Acosta (San José, CR)</item>
+        <item>Alajuela (Alajuela, CR)</item>
+        <item>Alajuelita (San José, CR)</item>
+        <item>Alvarado (Cartago, CR)</item>
+        <item>Aserrí (San José, CR)</item>
+        <item>Atenas (Alajuela, CR)</item>
+        <item>Bagaces (Guanacaste, CR)</item>
+        <item>Barva (Heredia, CR)</item>
+        <item>Belén (Heredia, CR)</item>
+        <item>Buenos Aires (Puntarenas, CR)</item>
+        <item>Cañas (Guanacaste, CR)</item>
+        <item>Carrillo (Guanacaste, CR)</item>
+        <item>Cartago (Cartago, CR)</item>
+        <item>Corredores (Puntarenas, CR)</item>
+        <item>Coto Brus (Puntarenas, CR)</item>
+        <item>Curridabat (San José, CR)</item>
+        <item>Desamparados (San José, CR)</item>
+        <item>Dota (San José, CR)</item>
+        <item>El Guarco (Cartago, CR)</item>
+        <item>Escazú (San José, CR)</item>
+        <item>Esparza (Puntarenas, CR)</item>
+        <item>Flores (Heredia, CR)</item>
+        <item>Garabito (Puntarenas, CR)</item>
+        <item>Goicoechea (San José, CR)</item>
+        <item>Golfito (Puntarenas, CR)</item>
+        <item>Grecia (Alajuela, CR)</item>
+        <item>Guácimo (Limón, CR)</item>
+        <item> Guatuso (Alajuela, CR)</item>
+        <item>Heredia (Heredia, CR)</item>
+        <item>Hojancha (Guanacaste, CR)</item>
+        <item>Jiménez (Cartago, CR)</item>
+        <item>La Cruz (Guanacaste, CR)</item>
+        <item>La Unión (Cartago, CR)</item>
+        <item>León Cortés (San José, CR)</item>
+        <item>Liberia (Guanacaste, CR)</item>
+        <item>Limón (Limón, CR)</item>
+        <item>Los Chiles (Alajuela, CR)</item>
+        <item>Matina (Limón, CR)</item>
+        <item>Montes de Oca (San José, CR)</item>
+        <item>Montes de Oro (Puntarenas, CR)</item>
+        <item> Mora (San José, CR)</item>
+        <item>Moravia (San José, CR)</item>
+        <item>Nandayure (Guanacaste, CR)</item>
+        <item>Naranjo (Alajuela, CR)</item>
+        <item>Nicoya (Guanacaste, CR)</item>
+        <item>Oreamuno (Cartago, CR)</item>
+        <item>Orotina (Alajuela, CR)</item>
+        <item>Osa (Puntarenas, CR)</item>
+        <item>Palmares (Alajuela, CR)</item>
+        <item>Paraíso (Cartago, CR)</item>
+        <item>Parrita (Puntarenas, CR)</item>
+        <item>Pérez Zeledón (San José, CR)</item>
+        <item>Poás (Alajuela, CR)</item>
+        <item>Pococí (Limón, CR)</item>
+        <item>Puntarenas (Puntarenas, CR)</item>
+        <item>Puriscal (San José, CR)</item>
+        <item>Quepos (Puntarenas, CR)</item>
+        <item>Río Cuarto (Alajuela, CR)</item>
+        <item>San Carlos (Alajuela, CR)</item>
+        <item>San Isidro (Heredia, CR)</item>
+        <item>San José (San José, CR)</item>
+        <item>San Mateo (Alajuela, CR)</item>
+        <item>San Pablo (Heredia, CR)</item>
+        <item>San Rafael (Heredia, CR)</item>
+        <item>San Ramón (Alajuela, CR)</item>
+        <item>Santa Ana (San José, CR)</item>
+        <item>Santa Bárbara (Heredia, CR)</item>
+        <item>Santa Cruz (Guanacaste, CR)</item>
+        <item>Santo Domingo (Heredia, CR)</item>
+        <item>Sarapiquí (Heredia, CR)</item>
+        <item>Sarchí (Alajuela, CR)</item>
+        <item>Siquirres (Limón, CR)</item>
+        <item>Talamanca (Limón, CR)</item>
+        <item>Tarrazú (San José, CR)</item>
+        <item>Tibás (San José, CR)</item>
+        <item>Tilarán (Guanacaste, CR)</item>
+        <item>Turrialba (Cartago, CR)</item>
+        <item>Turrubares (San José, CR)</item>
+        <item>Upala (Alajuela, CR)</item>
+        <item>Vázquez de Coronado (San José, CR)</item>
+        <item>Zarcero (Alajuela, CR)</item>
+    </string-array>
+</resources>
